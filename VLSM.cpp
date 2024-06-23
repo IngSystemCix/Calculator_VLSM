@@ -1,7 +1,7 @@
 #include <cstdlib>
 
 int main() {
-    const char* comando = "java --enable-preview -jar VLMS.jar";
+    const char* comando = "java --enable-preview -jar VLSM.jar";
 
     int resultado = system(comando);
 

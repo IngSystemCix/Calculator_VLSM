@@ -3,7 +3,7 @@
 
 ## Calculator VLMS
 
-Esta aplicación proporciona la capacidad de calcular el Variable Length Subnet Mask (VLMS).
+Esta aplicación proporciona la capacidad de calcular el Variable Length Subnet Mask (VLSM).
 
 ## Instrucciones
 
